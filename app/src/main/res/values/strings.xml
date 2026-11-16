@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bre Gonzalez - Contacts Address Book</string>
+    <string name="address_123_fake_street_vass_nc">Address: 123 Fake Street, Vass, NC</string>
+    <string name="alex_anderson">Alex Anderson</string>
+    <string name="phone_910_555_1111">Phone: (910) 555-1111</string>
+    <string name="email_alex_anderson_email_com">Email: alex.anderson@email.com</string>
+    <string name="back_to_contacts">Back to Contacts</string>
+    <string name="picture_of_alex_anderson">Picture of Alex Anderson</string>
+    <string name="picture_of_avery_adams">Picture of Avery Adams</string>
+    <string name="avery_adams">Avery Adams</string>
+    <string name="phone_919_555_0102">Phone: (919) 555-0102</string>
+    <string name="address_456_pine_avenue_clayton_nc">Address: 456 Pine Avenue, Clayton, NC</string>
+    <string name="email_avery_adams_example_com">Email: avery.adams@example.com</string>
+    <string name="phone_540_555_0102">540-555-0102</string>
+</resources>
